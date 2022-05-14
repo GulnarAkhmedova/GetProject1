@@ -5,7 +5,10 @@ public class Main {
         // write your code here
         System.out.println("I am Groot!!!");
         System.out.println("I will get this correctly!!");
+        System.out.println("i am Groot3!!!");
 
+        System.out.println("I am correct code");
+        System.out.println("I am not confused!");
     }
 }
 
